@@ -151,10 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\27-11-2022\wektor\wektor\matrix.cpp" />
     <ClCompile Include="spacer_przypadkowy.cpp" />
     <ClCompile Include="wektor.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="matrix.h" />
     <ClInclude Include="wektor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

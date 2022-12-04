@@ -1,6 +1,5 @@
 ﻿// vect.cpp -- implementacje metod klasy Vector
 #include <cmath>
-#include "pch.h"
 #include "wektor.h"        // włącza plik nagłówkowy <iostream>
 using std::cout;
 namespace VECTOR
