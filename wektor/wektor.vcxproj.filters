@@ -21,7 +21,7 @@
     <ClCompile Include="spacer_przypadkowy.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\27-11-2022\wektor\wektor\matrix.cpp">
+    <ClCompile Include="matrix.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>

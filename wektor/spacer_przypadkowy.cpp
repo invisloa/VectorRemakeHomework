@@ -11,7 +11,6 @@
 
 using namespace std;
 
-
 void PrintMatrix();
 void wypiszWartosci(VECTOR::Matrix matrix);
 VECTOR::Matrix getMatrixValues();

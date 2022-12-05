@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\27-11-2022\wektor\wektor\matrix.cpp" />
+    <ClCompile Include="matrix.cpp" />
     <ClCompile Include="spacer_przypadkowy.cpp" />
     <ClCompile Include="wektor.cpp" />
   </ItemGroup>
